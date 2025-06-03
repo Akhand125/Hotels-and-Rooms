@@ -12,6 +12,7 @@ Booking Trends Analysis: Identify seasonal fluctuations in hotel reservations.
 Revenue Insights: Track revenue streams based on room types and booking channels.
 Customer Preferences: Understand guest behaviors and most popular room choices.
 Occupancy Rate Monitoring: Measure hotel performance and optimize room utilization.
+
 🛠️ Tech Stack
 
 Data Visualization: Power BI
@@ -22,6 +23,7 @@ ETL: Power Query
 Peak Booking Seasons: Higher demand during holidays and weekends.
 Revenue Breakdown: Premium rooms generate the highest revenue but have lower occupancy rates.
 Cancellation Patterns: Direct bookings have lower cancellation rates compared to third-party platforms.
+
 📌 Features
 
 ✅ Interactive Dashboard with filters for real-time exploration.
